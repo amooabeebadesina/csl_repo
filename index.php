@@ -5,13 +5,15 @@
     <title>Central Science Laboratory</title>
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="css/style.css" type="text/css" />
-    <script  src="css/jquery.js"></script>
-    <script  src="css/bootstrap.min.js"></script>
+    <script  src="js/jquery.min.js"></script>
+    <script  src="js/bootstrap.min.js"></script>
+<!--    <script src="js/bootstrap.js"></script>-->
 
 </head>
 <body>
 
 <?php include('includes/header.inc'); ?><br />
+
 <div class="container">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
@@ -36,6 +38,9 @@
             </div>
         </div><br/>
     </div>
+
+
+
         <div class="row">
             <div class="col-sm-8 abt">
                 <ul class="nav nav-tabs tabs">

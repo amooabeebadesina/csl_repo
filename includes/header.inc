@@ -6,12 +6,14 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <div class="navbar-brand logo"><img src="images/logo.png"alt="logo"/></div>
+            <div class="navbar-brand logo">
+                <img src="images/logo.png" alt="logo"/>
+            </div>
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="/csl">HOME</a></li>
-                <li><a href="">ABOUT CSL</a></li>
+                <li><a hre f="">ABOUT CSL</a></li>
                 <li><a href="staff.php">STAFF</a></li>
                 <li><a href="">NEW EQUIPMENTS</a></li>
                 <li class="dropdown">
@@ -19,8 +21,8 @@
                         <span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu" style="font-size:small">
-                        <li><a href="">Biological laboratory</a></li>
-                        <li><a href="">Chemistry laboratory</a></li>
+                        <li><a href="BioLabs.php">Biological laboratory</a></li>
+                        <li><a href="chemistrylab.php">Chemistry laboratory</a></li>
                         <li><a href="">Scanning Electron Microscope laboratory</a></li>
                         <li><a href="">Biotechnology laboratory</a></li>
                         <li><a href="">Nuclear Electric Resonance laboratory</a></li>

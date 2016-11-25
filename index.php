@@ -45,7 +45,7 @@
                 <div class="tab-content" >
                     <div id="home" class="tab-pane fade in active"><br/>
                         <div class="director_img"><img src="" alt="Director" class="img-responsive"/></div>
-                        <p>It is my pleasure to welcome you to the website of the Central Science Laboratory, Obafemi Awolowo University,
+                        <p>It is my pleasure to welcome you all to the website of the Central Science Laboratory, Obafemi Awolowo University,
                             Ile-Ife, Nigeria. The Central Science Laboratory (CSL) was established in 1999 and equipped with state-of-the-art
                             equipment that are used by students and academics to meet the cutting edge research needs of the university
                             towards attaining the developmental objectives of our nation in the 21st century and beyond.

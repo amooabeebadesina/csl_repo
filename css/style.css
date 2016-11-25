@@ -1,0 +1,106 @@
+.logo img{
+    margin-top:-30%;
+    height:50px;
+}
+.navbar {
+    margin-bottom: 0;
+    background-color: #337ab7;
+    font-size:small !important;
+    letter-spacing: 4px;
+    font-family:"Helvetica Neue", cursive, Helvetica, Arial, sans-serif;
+}
+
+/* Add a gray color to all navbar links */
+.navbar li a, .navbar .navbar-brand {
+    color: #d5d5d5 !important;
+}
+
+/* On hover, the links will turn white */
+.navbar-nav li a:hover {
+    color: #00f !important;
+    background:#dcdc01 !important;
+    border-bottom: 2px solid #fff;
+}
+
+/* The active link */
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color:#29292c !important;
+}
+
+/* Remove border color from the collapsible button */
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+/* Dropdown */
+.open .dropdown-toggle {
+    color: #fff ;
+    background-color: #555 !important;
+}
+
+/* Dropdown links */
+.dropdown-menu li a {
+    color: #000 !important;
+}
+
+/* On hover, the dropdown links will turn red */
+.dropdown-menu li a:hover {
+    background-color: #555555 !important;
+    color:#ffffff !important;
+}
+
+.slider{
+
+}
+
+.tab-content{
+    font-family: cursive;
+    font-size:medium;
+    word-spacing:9px;
+}
+
+.tab-content ul li{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.tabs{
+    font-size:large;
+    padding:1px 10px 1px 1px;
+    font-family: fantasy;
+}
+
+.tabs .active a{
+    background:#dcdc01;
+}
+
+.director_img{
+    float:left;
+}
+
+.abt{
+    border-right: 1px solid gray;
+    padding:1% 5% 1% 1%;
+}
+
+.news-header{
+    font-family: fantasy;
+    color: #ffffff;
+    background:#337ab7;
+    padding:2% 1% 2% 1%;
+}
+.news-main{
+    color:#777777;
+    font-family:cursive;
+}
+
+.news-main:hover{
+    color: #286090;
+    text-decoration: none;
+}
+.footer{
+    background:#232323;
+    padding:2% 2% 1% 2%;
+    margin-top:1%;
+    color:#ffffff;
+}

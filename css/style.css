@@ -56,7 +56,7 @@
 
 .tab-content{
     font-family: cursive;
-    font-size:medium;
+    font-size:20px;
     word-spacing:9px;
 }
 
@@ -100,7 +100,45 @@
 }
 .footer{
     background:#232323;
-    padding:2% 2% 1% 2%;
-    margin-top:1%;
+    padding:3% 2% 2% 2%;
+    margin-top:none;
     color:#ffffff;
+}
+
+/** Styling for the about page **/
+.about_container{
+    background:#eeeeee;
+    padding:9% 9% 9% 9%;
+    margin:none;
+}
+.about_main{
+    background:#ffffff;
+    padding:3% 3% 3% 3%;
+    box-shadow: 0px 6px 9px 0 rgba(0, 0, 0, 0.4), 5px 4px 6px 5px rgba(0, 0, 0, 0.19);
+}
+
+/** Styling for Staff Page **/
+.staff_container{
+    background:#eeeeee;
+    padding:8% 8% 8% 8%;
+    margin:none;
+}
+.staff_main{
+    background:#ffffff;
+    padding:4% 5% 4% 5%;
+    box-shadow: 0px 6px 9px 0 rgba(0, 0, 0, 0.4), 5px 4px 6px 5px rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+.staff_row{
+    margin:2px 2px 2px 2px;
+}
+
+.staff_member{
+    box-shadow: 0px 6px 9px 0 rgba(0, 0, 0, 0.4), 5px 4px 6px 5px rgba(0, 0, 0, 0.19);
+    margin:4% 4% 4% 3%;
+    padding: 2% 2% 3% 2%;
+    background:#efefef;
+}
+.staff_member img:hover{
+    border-color:red;
 }

@@ -11,7 +11,7 @@
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="/csl">HOME</a></li>
-                <li><a href="">ABOUT CSL</a></li>
+                <li><a href="about.php">ABOUT CSL</a></li>
                 <li><a href="staff.php">STAFF</a></li>
                 <li><a href="">NEW EQUIPMENTS</a></li>
                 <li class="dropdown">

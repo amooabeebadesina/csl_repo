@@ -101,7 +101,6 @@
 .footer{
     background:#232323;
     padding:3% 2% 2% 2%;
-    margin-top:none;
     color:#ffffff;
 }
 
@@ -109,7 +108,6 @@
 .about_container{
     background:#eeeeee;
     padding:9% 9% 9% 9%;
-    margin:none;
 }
 .about_main{
     background:#ffffff;
@@ -121,7 +119,6 @@
 .staff_container{
     background:#eeeeee;
     padding:8% 8% 8% 8%;
-    margin:none;
 }
 .staff_main{
     background:#ffffff;
@@ -139,6 +136,37 @@
     padding: 2% 2% 3% 2%;
     background:#efefef;
 }
-.staff_member img:hover{
-    border-color:red;
+.staff_member img:hover {
+    border-color: red;
+}
+/***************************************************
+/                                                   /
+/                 BIO_LAB PAGE                        /
+/***************************************************/
+.bl-body{
+    background-image: url("../images/bio_lab/bg1.jpg");
+    background-size:cover;
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+    position:absolute;
+    width:100%;
+    height:100%;
+    z-index: -33;
+}
+.about-wrapper{
+    background-color: white;
+    width: 73%;
+    height: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-div{
+    padding: 50px;
+    border-right: 1px solid #337ab7;
 }

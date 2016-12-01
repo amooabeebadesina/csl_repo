@@ -10,16 +10,16 @@
 </head>
 <body>
 <?php include('includes/header.inc') ?><br />
-<div class="container-fluid staff_container">
-    <div class="staff_main">
+<div class="container-fluid equipments_container">
+    <div class="equipments_main">
         <h3 style="font-family:"Helvetica Neue", cursive, Helvetica, Arial, sans-serif"><b>MEMBERS OF STAFF</b></h3>
-        <div class="row staff_row">
-            <div class="col-sm-5 staff_member">
+        <div class="row equipments_row">
+            <div class="col-sm-5 equipments_member">
                 <h3><a href="" data-toggle="modal" data-target="#myModal">Prof. Abiodun Oguntuga Ogundaini</a></h3><br/>
                 <img src="images/person-icon.png" class="img-circle img-responsive" style="float:left;height:150px;width:150px" />
                 <p>Prof. Abiodun Oguntuga Ogundaini studied Pharmacy at the
-                University of Ife, now Obafemi Awolowo University. He graduated in
-                1976 with a 1st Class degree and joined the services of the …</p>
+                    University of Ife, now Obafemi Awolowo University. He graduated in
+                    1976 with a 1st Class degree and joined the services of the …</p>
                 <!-- Modal -->
                 <div class="modal fade" id="myModal" role="dialog">
                     <div class="modal-dialog">
@@ -44,12 +44,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-5 staff_member">
+            <div class="col-sm-5 equipments_member">
                 <h3><a href="" data-toggle="modal" data-target="#myModal2">Dr. (Mrs.) Abiola Elusiyan</a></h3><br/>
                 <img src="images/person-icon.png" class="img-circle img-responsive" style="float:left;height:150px;width:150px" />
                 <p>Dr. (Mrs.) Elusiyan started her career as an assistant
-                lecturer at the Federal University of Technology, Akure (FUTA)
-                in 2001. She transferred her service to the OAU, Ile-Ife in 2007 …</p>
+                    lecturer at the Federal University of Technology, Akure (FUTA)
+                    in 2001. She transferred her service to the OAU, Ile-Ife in 2007 …</p>
                 <!-- Modal -->
                 <div class="modal fade" id="myModal2" role="dialog">
                     <div class="modal-dialog">
@@ -75,13 +75,13 @@
                 </div>
             </div>
         </div>
-        <div class="row staff_row">
-            <div class="col-sm-5 staff_member">
+        <div class="row equipments_row">
+            <div class="col-sm-5 equipments_member">
                 <h3><a href="" data-toggle="modal" data-target="#myModal3">Izevbekhai Oiasemi</a></h3><br/>
                 <img src="images/person-icon.png" class="img-circle img-responsive" style="float:left;height:150px;width:150px" />
                 <p>Graduate School Obafemi Awolowo University, Ile-Ife. Osun State (2007- 2011)
-                — MSc Pharmaceutical Chemistry Professional Qualifications Nigerian Institute of
-                Management (NIM) Chartered (2006) — Proficiency Certificate in management. University Nnamdi …</p>
+                    — MSc Pharmaceutical Chemistry Professional Qualifications Nigerian Institute of
+                    Management (NIM) Chartered (2006) — Proficiency Certificate in management. University Nnamdi …</p>
                 <!-- Modal -->
                 <div class="modal fade" id="myModal3" role="dialog">
                     <div class="modal-dialog">
@@ -106,12 +106,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-5 staff_member">
+            <div class="col-sm-5 equipments_member">
                 <h3><a href="" data-toggle="modal" data-target="#myModal4">Akinola Emmanuel Adegoke</a></h3><br/>
                 <img src="images/person-icon.png" class="img-circle img-responsive" style="float:left;height:150px;width:150px" />
                 <p>National Diploma Sci. Lab. Tech. – Federal Polytechnic, Ede (1997).
-                • Higher National Diploma (HND) – Federal University of Technology, Akure (2000)
-                . Membership of Professional Associations/Societies. • Associate Member, Nigerian …</p>
+                    • Higher National Diploma (HND) – Federal University of Technology, Akure (2000)
+                    . Membership of Professional Associations/Societies. • Associate Member, Nigerian …</p>
                 <!-- Modal -->
                 <div class="modal fade" id="myModal4" role="dialog">
                     <div class="modal-dialog">
@@ -126,7 +126,7 @@
                                 <p><ul>
                                     <li>National Diploma Sci. Lab. Tech. – Federal Polytechnic, Ede (1997).</li>
                                     <li>Higher National Diploma (HND) – Federal University of Technology, Akure (2000)</li>
-                                     <b>Membership of Professional Associations/Societies.</b>
+                                    <b>Membership of Professional Associations/Societies.</b>
                                     <li>Associate Member, Nigerian</li>
                                 </ul></p>
                             </div>
@@ -140,13 +140,13 @@
                 </div>
             </div>
         </div>
-        <div class="row staff_row">
-            <div class="col-sm-5 staff_member">
+        <div class="row equipments_row">
+            <div class="col-sm-5 equipments_member">
                 <h3><a href="" data-toggle="modal" data-target="#myModal5">Sanni Kareem Ebunoluwa</a></h3><br/>
                 <img src="images/person-icon.png" class="img-circle img-responsive" style="float:left;height:150px;width:150px" />
                 <p>West African Senior Secondary School Certificate Positions Held (Previous and Present)
-                Previous: Laboratory Assistant Present: Senior Laboratory Assistant.
-                Work Brief Assists in day to day analysis in the laboratory, refilling …</p>
+                    Previous: Laboratory Assistant Present: Senior Laboratory Assistant.
+                    Work Brief Assists in day to day analysis in the laboratory, refilling …</p>
                 <!-- Modal -->
                 <div class="modal fade" id="myModal5" role="dialog">
                     <div class="modal-dialog">
@@ -171,12 +171,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-5 staff_member">
+            <div class="col-sm-5 equipments_member">
                 <h3><a href="" data-toggle="modal" data-target="#myModal6">Aderonke O. Aguda</a></h3><br/>
                 <img src="images/person-icon.png" class="img-circle img-responsive" style="float:left;height:150px;width:150px" />
                 <p>University of Ife Secretarial Studies Fed. Polytechnic Ede, School of Business Studies,
-                Obafemi Awolowo University, Electronic Data Processing in Computer,
-                University of Lagos – B.Sc. Business Administration Position Held(previous and …</p>
+                    Obafemi Awolowo University, Electronic Data Processing in Computer,
+                    University of Lagos – B.Sc. Business Administration Position Held(previous and …</p>
                 <!-- Modal -->
                 <div class="modal fade" id="myModal6" role="dialog">
                     <div class="modal-dialog">

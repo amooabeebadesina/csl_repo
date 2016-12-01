@@ -5,42 +5,38 @@
     <title>Central Science Laboratory</title>
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="css/style.css" type="text/css" />
-    <script  src="js/jquery.min.js"></script>
-    <script  src="js/bootstrap.min.js"></script>
-<!--    <script src="js/bootstrap.js"></script>-->
+    <script  src="js/jquery.min.js" type="text/javascript"></script>
+    <script  src="js/bootstrap.min.js" type="text/javascript"></script>
 
 </head>
 <body>
-
 <?php include('includes/header.inc'); ?><br />
 
-<div class="container">
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
-        </ol>
+<div class="container-fluid index_container">
+    <div class="index_main">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+            </ol>
 
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner container slider" role="listbox">
-            <div class="item active">
-                <img src="images/img1.jpg"/>
-            </div>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner container slider" role="listbox">
+                <div class="item active">
+                    <img src="images/img1.jpg"/>
+                </div>
 
-            <div class="item">
-                <img src="images/img1.jpg"/>
-            </div>
+                <div class="item">
+                    <img src="images/img1.jpg"/>
+                </div>
 
-            <div class="item">
-                <img src="images/img1.jpg"/>
-            </div>
-        </div><br/>
-    </div>
-
-
-
+                <div class="item">
+                    <img src="images/img1.jpg"/>
+                </div>
+            </div><br/>
+        </div>
         <div class="row">
             <div class="col-sm-8 abt">
                 <ul class="nav nav-tabs tabs">
@@ -49,7 +45,9 @@
                 </ul>
                 <div class="tab-content" >
                     <div id="home" class="tab-pane fade in active"><br/>
-                        <div class="director_img"><img src="" alt="Director" class="img-responsive"/></div>
+                        <div class="director_img">
+                            <img src="images/person-icon.png" class="img-responsive" style="float:left;height:100px;width:100px" />
+                        </div>
                         <p>It is my pleasure to welcome you all to the website of the Central Science Laboratory, Obafemi Awolowo University,
                             Ile-Ife, Nigeria. The Central Science Laboratory (CSL) was established in 1999 and equipped with state-of-the-art
                             equipment that are used by students and academics to meet the cutting edge research needs of the university
@@ -65,12 +63,12 @@
                             researchers and other users on how to derive maximum benefits from the installed equipment.</p><br/>
                         <p>The major strategic objectives are to: </p>
                         <ul><i>
-                            <li>Acquire and maintain specialized items of teaching and research equipment</li>
-                            <li>Provide a 24h gender friendly access to users within and outside the university,
-                                including visiting scientists</li>
-                            <li>Provide analytical services where direct access by users is considered inexpedient</li>
-                            <li>Provide a forum for vibrant interactions by way of seminars and training workshops for staff and users</li>
-                            <li>Secure partnership to guarantee sustainability of the services.</li></i>
+                                <li>Acquire and maintain specialized items of teaching and research equipment</li>
+                                <li>Provide a 24h gender friendly access to users within and outside the university,
+                                    including visiting scientists</li>
+                                <li>Provide analytical services where direct access by users is considered inexpedient</li>
+                                <li>Provide a forum for vibrant interactions by way of seminars and training workshops for staff and users</li>
+                                <li>Secure partnership to guarantee sustainability of the services.</li></i>
                         </ul><br/>
                         <p>It is important to emphasize that the Laboratory’s establishment has not in any way precluded
                             faculties, departments and units from acquiring and utilizing their own research equipment,
@@ -90,13 +88,14 @@
                 </div>
             </div>
             <div class="col-sm-3 text-center">
-                <h3 class="news-header"><marquee behavior="alternate" scrollamount="12">NEWS</marquee></h3><br/>
-                 <a href="" class="news-main"><h4>CSL Invites</h4></a>
+                <h3 class="news-header"><marquee behavior="alternate" scrollamount="8">NEWS</marquee></h3><br/>
+                <a href="" class="news-main"><h4>CSL Invites</h4></a>
                 <p>Application from  Scientists.(Natural products ...<a href="">Read more</a></p><hr />
                 <a href="" class="news-main"><h4>Workshop on Atomic Absorption Spectroscopy(AAS)</h4></a>
                 <p>Watch out for dates in 2012</p>
             </div>
         </div>
+    </div>
 </div>
     <?php include('includes/footer.inc'); ?>
 </body>

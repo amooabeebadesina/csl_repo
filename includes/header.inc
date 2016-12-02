@@ -24,11 +24,11 @@
                         <span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu" style="font-size:small">
-                        <li><a href="biolabs.php">Biological laboratory</a></li>
+                        <li><a href="">Biological laboratory</a></li>
                         <li><a href="chemistrylab.php">Chemistry laboratory</a></li>
-                        <li><a href="">Scanning Electron Microscope laboratory</a></li>
-                        <li><a href="">Biotechnology laboratory</a></li>
-                        <li><a href="">Nuclear Electric Resonance laboratory</a></li>
+                        <li><a href="semlabs.php">Scanning Electron Microscope laboratory</a></li>
+                        <li><a href="biotechlabs.php">Biotechnology laboratory</a></li>
+                        <li><a href="nuclearlabs.php">Nuclear Electric Resonance laboratory</a></li>
                     </ul>
                 </li>
                 <li><a href="">GALLERY</a></li>
